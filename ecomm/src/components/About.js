@@ -1,7 +1,7 @@
 import React from "react";
 import Navigationbar from "./Navigationbar";
 import Footermain from "./Footermain";
-import crypt_tradewebsite from "../assets/crypt_tradewebsite.png";
+import crypt_tradewebsite from "../assets/crypt_tradewebsite1.png";
 import "../style/about.css";
 import sarthak from "../assets/sarthak.png";
 import riya from "../assets/riya.png";
