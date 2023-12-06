@@ -179,19 +179,19 @@ const About = () => {
                 <ul class="social">
                   <li>
                     <a
-                      href="https://www.facebook.com/people/Vineet-Ajmani/100078124230833/"
-                      class="fa fa-facebook"
+                      href="https://instagram.com/sarthak.xox?igshid=YTQwZjQ0NmI0OA=="
+                      class="fa fa-instagram"
                     ></a>
                   </li>
                   <li>
                     <a
-                      href="https://twitter.com/ajmani_vineet"
+                      href="https://twitter.com/sarthak"
                       class="fa fa-twitter"
                     ></a>
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/vineetajmani01/"
+                      href="https://www.linkedin.com/in/sarthak-srivastava-11044b271"
                       class="fa fa-linkedin"
                     ></a>
                   </li>
@@ -211,19 +211,19 @@ const About = () => {
                 <ul class="social">
                   <li>
                     <a
-                      href="https://www.facebook.com/profile.php?id=100063728432033"
-                      class="fa fa-facebook"
+                      href="https://instagram.com/riya11_06?igshid=YTQwZjQ0NmI0OA=="
+                      class="fa fa-instagram"
                     ></a>
                   </li>
                   <li>
                     <a
-                      href="https://twitter.com/PrakashrawatPk1"
+                      href="https://x.com/Riya10714725"
                       class="fa fa-twitter"
                     ></a>
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/prakash-rawat-257913212/"
+                      href="https://www.linkedin.com/in/riya-gaba-b24b7a22a"
                       class="fa fa-linkedin"
                     ></a>
                   </li>
